@@ -1,0 +1,11 @@
+{
+    "AppSyncApiName": "lab2secure",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "AuthCognitoUserPoolId": {
+        "Fn::GetAtt": [
+            "authlab2secure73d44d2073d44d20",
+            "Outputs.UserPoolId"
+        ]
+    }
+}

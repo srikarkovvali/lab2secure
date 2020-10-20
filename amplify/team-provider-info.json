@@ -1,0 +1,22 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-lab2secure-dev-121424-authRole",
+      "UnauthRoleArn": "arn:aws:iam::926509287531:role/amplify-lab2secure-dev-121424-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::926509287531:role/amplify-lab2secure-dev-121424-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-lab2secure-dev-121424-deployment",
+      "UnauthRoleName": "amplify-lab2secure-dev-121424-unauthRole",
+      "StackName": "amplify-lab2secure-dev-121424",
+      "StackId": "arn:aws:cloudformation:us-east-1:926509287531:stack/amplify-lab2secure-dev-121424/533889b0-12ef-11eb-8d00-1230a5204572",
+      "AmplifyAppId": "d1z0f8ysx8yk3z"
+    },
+    "categories": {
+      "auth": {
+        "lab2secure73d44d2073d44d20": {
+          "hostedUIProviderCreds": "[]"
+        }
+      }
+    }
+  }
+}
