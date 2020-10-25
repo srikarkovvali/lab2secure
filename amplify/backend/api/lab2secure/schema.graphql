@@ -1,3 +1,4 @@
+# Coded by Daniel Campbell
 type Todo @model {
   id: ID!
   name: String!
